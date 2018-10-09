@@ -1,0 +1,12 @@
+== My new shell logger
+
+This project was originally forked from https://github.com/trengrj/recent.
+
+Original README is `README_ORIGINAL.rst`.
+
+=== Goals
+
+. Log all commands database
+. Support MySQL and Postgres
+. Log as much as possible like the environment, shell, etc.
+. Make it a full time replacement for `history`
